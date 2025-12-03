@@ -1,0 +1,7 @@
+{
+  "name": "自定义角标插件",
+  "version": "3.2.2",
+  "author": "Your Name",
+  "description": "自定义文件角标插件 - 根据特定规则显示文档、备份和压缩文件角标",
+  "compatiblePeonyVersion": "3.0.0及以上"
+}

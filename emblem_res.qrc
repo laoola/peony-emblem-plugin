@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/emblems">
+    <file>res/secretGongkai.ico</file>
+    <file>res/secretGongkaixp.ico</file>
+    <file>res/secretPutong.ico</file>
+    <file>res/secretPutongxp.ico</file>
+    <file>res/secretNeibu.ico</file>
+    <file>res/secretNeibuxp.ico</file>
+    <file>res/secretMimi.ico</file>
+    <file>res/secretMimixp.ico</file>
+    <file>res/secretJimi.ico</file>
+    <file>res/secretJimixp.ico</file>
+    <file>res/secretJuemi.ico</file>
+    <file>res/secretJuemixp.ico</file>
+    <file>res/secretHexin.ico</file>
+    <file>res/secretHexinxp.ico</file>
+    <file>res/secretFeimi.ico</file>
+    <file>res/secretFeimixp.ico</file>
+</qresource>
+</RCC>
